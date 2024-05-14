@@ -4,9 +4,7 @@
     box-sizing: border-box;
     background-color: black;
 }
-.container{
-    
-}
+
 .main-bar{
     height:56px;
     width:100%;
@@ -40,7 +38,7 @@
     display: flex;
 }
 #search-track{
-    width:350px;
+    width:450px;
     height: 40px;
     /* border-top-left-radius: 50%;
     border-bottom-left-radius: 50%; */
@@ -50,7 +48,7 @@
     padding-left:15px;
     border:1px solid white;
     transition-duration: 0.2s;
-    box-shadow: 0 0 20px #03e9f4;
+    /* box-shadow: 0 0 20px #03e9f4; */
 }
 .search-icon{
     color:white;
